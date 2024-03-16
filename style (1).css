@@ -1,0 +1,38 @@
+div {
+  font-size:20px;
+   text-align:center;
+   color:rgba(6000,2,300);
+}
+ button {
+   font-size:3em  rgb(255,0,0);
+   margin:53px;
+   text-align:center;
+   background:#FFFFFF00;
+   padding:6px 3px 6px 3px;
+   border-radius: 10px;
+   height:47px;
+   border-width:2px;
+   line-height:20px;
+    color:#FF0000;
+ }
+  .button {
+    margin-top:2px 0px 0px 0px;
+  }
+   li {
+     color:#000000;
+      text-align:center;
+      margin:6px;
+   }
+    p {
+      margin:6px;
+      font-size:11px;
+      text-align:center;
+    }
+     h2 {
+       text-align:center;
+     }
+      body {
+        text-align:center 900px;
+        background-color:#FF9A00;
+        
+      }
